@@ -1,0 +1,16 @@
+﻿  Game.cpp
+d:\pacman\pacman\game.cpp(52): warning C4244: 'argument': conversion from 'double' to 'GLuint', possible loss of data
+d:\pacman\pacman\game.cpp(53): warning C4244: 'argument': conversion from 'double' to 'GLuint', possible loss of data
+d:\pacman\pacman\game.cpp(54): warning C4244: 'argument': conversion from 'double' to 'GLuint', possible loss of data
+d:\pacman\pacman\game.cpp(55): warning C4244: 'argument': conversion from 'double' to 'GLuint', possible loss of data
+d:\pacman\pacman\game.cpp(56): warning C4244: 'argument': conversion from 'double' to 'GLuint', possible loss of data
+d:\pacman\pacman\game.cpp(254): warning C4244: 'argument': conversion from 'float' to 'GLuint', possible loss of data
+d:\pacman\pacman\game.cpp(256): warning C4244: 'argument': conversion from 'float' to 'GLuint', possible loss of data
+d:\pacman\pacman\game.cpp(258): warning C4244: 'argument': conversion from 'float' to 'GLuint', possible loss of data
+d:\pacman\pacman\game.cpp(260): warning C4244: 'argument': conversion from 'float' to 'GLuint', possible loss of data
+  Pacman.cpp
+d:\pacman\pacman\pacman.cpp(55): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+d:\pacman\pacman\game.cpp(709): warning C4715: 'Game::FindTargetTile': not all control paths return a value
+d:\pacman\pacman\game.cpp(723): warning C4715: 'Game::FindCurrentTile': not all control paths return a value
+  Pacman.vcxproj -> D:\Pacman\Debug\Pacman.exe
